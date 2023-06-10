@@ -86,7 +86,7 @@
             <span class="fs-5 fw-semi-bold text-white font-rubik">Users</span>
           </div>
           <div class="col-sm-6 col-lg-3 text-center">
-            <h1 class="color-1">7,128+</h1>
+            <h1 class="color-1">7,127+</h1>
             <span class="fs-5 fw-semi-bold text-white font-rubik">Lorem Ipsum</span>
           </div>
           <div class="col-sm-6 col-lg-3 text-center">
